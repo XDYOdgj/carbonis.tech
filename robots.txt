@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://carbonis.tech/sitemap.xml
